@@ -16,3 +16,9 @@
 checksum
 *.rvz
 *.wua
+*.dll
+*.exe
+*.AppImage
+*.apk
+*.tar.xz
+*.pak
