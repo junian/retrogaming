@@ -22,3 +22,5 @@ checksum
 *.apk
 *.tar.xz
 *.pak
+*.nca
+bios/
